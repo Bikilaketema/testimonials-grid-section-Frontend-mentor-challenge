@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo]([https://github.com/bikilaketema](https://github.com/Bikilaketema/testimonials-grid-section-Frontend-mentor-challenge/tree/main))
-- Live Site URL: [On Github pages]([https://your-live-site-url.com](https://bikilaketema.github.io/testimonials-grid-section-Frontend-mentor-challenge/))
+- Solution URL: [Github Repo](https://github.com/Bikilaketema/testimonials-grid-section-Frontend-mentor-challenge/tree/main)
+- Live Site URL: [On Github pages](https://bikilaketema.github.io/testimonials-grid-section-Frontend-mentor-challenge/)
 
 
 ### Built with
